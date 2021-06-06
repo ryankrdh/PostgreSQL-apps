@@ -1,6 +1,7 @@
 import sqlite3
 
 connection = sqlite3.connect("data.db")
+connection.row_factory = sqlite3.Row
 
 
 def create_table():
@@ -11,9 +12,11 @@ def create_table():
 
 def add_entry(entry_content, entry_date):
     with connection:
-        connection.execute(            # To protect against SQL injection attack:
+        connection.execute(  # To protect against SQL injection attack:
             "INSERT INTO entries VALUES(?, ?);", (entry_content, entry_date))
 
 
+# Not making the syntax shorter to make it readable
 def get_entries():
-    return entries
+    cursor = connection.execute("SELECT * FROM entries;")
+    return cursor
