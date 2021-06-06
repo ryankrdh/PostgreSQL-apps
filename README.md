@@ -10,8 +10,6 @@ For expanding and practice my SQL knowledge.
 
 To understand how databases work and to upgrade my python applications.
 
-## How to use
-
 ## Getting Started
 
 Download file and run in visual Studio Code.
