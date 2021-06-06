@@ -1,10 +1,10 @@
-# PostgreSQL-apps
+# SQL-Project: Programming Journal
 
-This repo consists of multiple projects based on PostgreSQL.
+A SQL-based project with Python
 
 ## What was your motivation?
 
-For expanding my PostgreSQL knowledge.
+For expanding and practice my SQL knowledge.
 
 ## Why did you build this project?
 
@@ -14,7 +14,7 @@ To understand how databases work and to upgrade my python applications.
 
 ## Getting Started
 
-Download file and run in visual studio.
+Download file and run in visual Studio Code.
 
 ## Deployment
 
@@ -22,7 +22,7 @@ Will work on deploying it on a server in the future.
 
 ## Built With
 
-- [Visual Studio]
+- [Visual Studio Code] with Python
 
 ## Versioning
 
