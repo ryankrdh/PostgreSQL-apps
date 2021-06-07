@@ -4,7 +4,7 @@ A SQL-based project with Python
 
 ## What was your motivation?
 
-For expanding and practice my SQL knowledge.
+For expanding and practicing my SQL knowledge.
 
 ## Why did you build this project?
 
@@ -13,10 +13,6 @@ To understand how databases work and to upgrade my python applications.
 ## Getting Started
 
 Download file and run in Visual Studio Code.
-
-## Deployment
-
-Will work on deploying it on a server in the future.
 
 ## Built With
 
