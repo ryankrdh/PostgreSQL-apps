@@ -12,7 +12,7 @@ To understand how databases work and to upgrade my python applications.
 
 ## Getting Started
 
-Download file and run in visual Studio Code.
+Download file and run in Visual Studio Code.
 
 ## Deployment
 
@@ -21,6 +21,7 @@ Will work on deploying it on a server in the future.
 ## Built With
 
 - [Visual Studio Code] with Python
+- [SQLite]
 
 ## Versioning
 
