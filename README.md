@@ -1,10 +1,10 @@
-# SQL-Project: Programming Journal
+# SQLite-Project: Programming Journal
 
-A SQL-based project with Python
+A SQLite-based project with Python
 
 ## What was your motivation?
 
-For expanding and practicing my SQL knowledge.
+For expanding and practicing my database knowledge.
 
 ## Why did you build this project?
 
